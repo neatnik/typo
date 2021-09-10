@@ -1,4 +1,4 @@
-# Typo
+![Typo typing demo](https://raw.githubusercontent.com/neatnik/typo/main/typo-demo.gif)
 
 Typo attempts to improve upon the sterile, flawless animated web typing effect by offering something a little more relatable. Text is typed as if a real person is there. There are variations in the speed between keystrokes, pauses, and of course typos — which sometimes take a moment to be noticed and corrected (but are always corrected). The overall effect just feels more natural — more like a person typing, and less like a computer typing.
 
